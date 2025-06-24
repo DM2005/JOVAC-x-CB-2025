@@ -1,0 +1,26 @@
+#grandparent{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(184, 110, 110);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#parent{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(140, 218, 95);
+        display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#child{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(114, 114, 185);
+        display: flex;
+    align-items: center;
+    justify-content: center;
+}
